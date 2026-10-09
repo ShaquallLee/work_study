@@ -1,0 +1,13 @@
+{
+  "name": "learning-repo",
+  "version": "1.0.0",
+  "description": "个人学习资料库 - 支持 Markdown / PDF / DOCX 的静态文档站点",
+  "type": "commonjs",
+  "scripts": {
+    "manifest": "node scripts/generate-manifest.js",
+    "build": "node scripts/generate-manifest.js",
+    "serve": "node scripts/generate-manifest.js && python3 -m http.server 8080"
+  },
+  "keywords": ["documentation", "markdown", "pdf", "docx", "static-site"],
+  "license": "MIT"
+}

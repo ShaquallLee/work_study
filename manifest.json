@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-10-08T13:37:41.987Z",
+  "count": 4,
+  "categories": [
+    "指南",
+    "示例",
+    "编程"
+  ],
+  "tags": [
+    "入门",
+    "使用说明",
+    "DOCX",
+    "Word",
+    "演示",
+    "PDF",
+    "JavaScript",
+    "前端"
+  ],
+  "documents": [
+    {
+      "id": "getting-started",
+      "title": "快速开始",
+      "type": "markdown",
+      "path": "docs/getting-started.md",
+      "category": "指南",
+      "tags": [
+        "入门",
+        "使用说明"
+      ],
+      "date": "2024-03-01",
+      "description": "了解如何使用这个学习资料库，添加你自己的文档。",
+      "updated": "2026-10-08T13:31:07.622Z"
+    },
+    {
+      "id": "sample-docx",
+      "title": "示例 Word 文档",
+      "type": "docx",
+      "path": "docs/sample.docx",
+      "category": "示例",
+      "tags": [
+        "DOCX",
+        "Word",
+        "演示"
+      ],
+      "date": "2024-02-22",
+      "description": "用于演示 DOCX 文档在线展示功能的示例。",
+      "updated": "2026-10-08T13:32:09.927Z"
+    },
+    {
+      "id": "sample-pdf",
+      "title": "示例 PDF 文档",
+      "type": "pdf",
+      "path": "docs/sample.pdf",
+      "category": "示例",
+      "tags": [
+        "PDF",
+        "演示"
+      ],
+      "date": "2024-02-20",
+      "description": "用于演示 PDF 在线查看功能的示例文档。",
+      "updated": "2026-10-08T13:32:09.918Z"
+    },
+    {
+      "id": "programming-javascript-basics",
+      "title": "JavaScript 基础",
+      "type": "markdown",
+      "path": "docs/programming/javascript-basics.md",
+      "category": "编程",
+      "tags": [
+        "JavaScript",
+        "前端",
+        "入门"
+      ],
+      "date": "2024-02-15",
+      "description": "JavaScript 语言的核心概念与基础语法讲解。",
+      "updated": "2026-10-08T13:32:02.263Z"
+    }
+  ]
+}

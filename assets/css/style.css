@@ -52,6 +52,11 @@
   padding: 0;
 }
 
+/* 确保 hidden 属性生效，防止 display 规则覆盖导致元素无法隐藏 */
+[hidden] {
+  display: none !important;
+}
+
 html {
   scroll-behavior: smooth;
 }
